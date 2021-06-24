@@ -1,5 +1,5 @@
 
-Table S.1 - The program algorithm Lines. The model code in C++.
+// Table S.1 - The program algorithm Lines. The model code in C++.
 
 #include <stdio.h>
 #include <math.h>
